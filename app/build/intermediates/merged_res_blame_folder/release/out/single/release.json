@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.testdemo.sample.app-merged_res-46:/layout_activity_sample.xml.flat",
+        "source": "com.testdemo.sample.app-main-47:/layout/activity_sample.xml"
+    },
+    {
+        "merged": "com.testdemo.sample.app-merged_res-46:/drawable_logo.png.flat",
+        "source": "com.testdemo.sample.app-main-47:/drawable/logo.png"
+    },
+    {
+        "merged": "com.testdemo.sample.app-merged_res-46:/layout_activity_web_sample.xml.flat",
+        "source": "com.testdemo.sample.app-main-47:/layout/activity_web_sample.xml"
+    },
+    {
+        "merged": "com.testdemo.sample.app-merged_res-46:/layout_activity_splashsample.xml.flat",
+        "source": "com.testdemo.sample.app-main-47:/layout/activity_splashsample.xml"
+    },
+    {
+        "merged": "com.testdemo.sample.app-merged_res-46:/drawable_splash.jpeg.flat",
+        "source": "com.testdemo.sample.app-main-47:/drawable/splash.jpeg"
+    }
+]
